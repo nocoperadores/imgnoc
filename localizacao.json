@@ -1,6 +1,6 @@
 {
 	"host": "Shopping - Analia Franco - Fortigate 60E - FT",
-	"metric":"ICMP PING",
+	"metric":"ICMP ping",
 	"latitude": "-23,5615",
 	"longitude": "-23,5615"
 }
