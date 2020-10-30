@@ -1,13 +1,13 @@
 [{
-		"key": "Shopping - Barra Sul - Cisco 2801 - Embratel",
-		"latitude": 60.128161,
-		"longitude": 18.643501,
-		"name": "Sweden"
-	},
-	{
-		"key": "US",
-		"latitude": 37.09024,
-		"longitude": -95.712891,
-		"name": "United States"
-	}
+    "key": "Shopping Tambore - Switch - Cisco SF300",
+    "latitude": -23.5043583,
+    "longitude": -46.8343506,
+    "name": "Shopping Tambore - Switch - Cisco SF300"
+},
+{
+    "key": "Shopping Morumbi - Switch - Cisco 2960",
+    "latitude": -23.6221,
+    "longitude": -46.6987,
+    "name": "Shopping Morumbi - Switch - Cisco 2960"
+}
 ]
