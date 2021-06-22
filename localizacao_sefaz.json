@@ -1,9 +1,171 @@
 [
-{
-    "key": "Sefaz - SP",
-    "latitude": -23.5489,
-    "longitude": -46.6388,
-    "name": "Sefaz - SP"
-}
-]
+    {
+        "key": "Sefaz - SP",
+        "latitude": -23.5489,
+        "longitude": -46.6388,
+        "name": "Sefaz - SP"
+    },
+    {
+        "key": "Sefaz - GO",
+        "latitude": -16.6799,
+        "longitude": -49.255,
+        "name": "Sefaz - GO"
+    },
+        {
+        "key": "Sefaz - AC",
+        "latitude": -9.974,
+        "longitude": -67.8076,
+        "name": "Sefaz - AC"
+    },
+    {
+        "key":"Sefaz - AL",
+        "latitude": -9.66625,
+        "longitude": -35.7351,
+        "name": "Sefaz - AL"
+    },
+    {
+        "key":"Sefaz - AM",
+        "latitude": -3.1189,
+        "longitude":-60.0215,
+        "name": "Sefaz - AM"
+    },
+    {
+        "key":"Sefaz - AP",
+        "latitude": -0.0086608,
+        "longitude":-51.0828735,
+        "name": "Sefaz - AP"
+    },
+    {
+        "key":"Sefaz - BA",
+        "latitude": -12.9722,
+        "longitude":-38.5014,
+        "name": "Sefaz - BA"
+    },
+    {
+        "key":"Sefaz - CE",
+        "latitude": -3.71839,
+        "longitude":-38.5434,
+        "name": "Sefaz - CE"
+    },
+    {
+        "key":"Sefaz - DF",
+        "latitude": -15.7801,
+        "longitude":-47.9292,
+        "name": "Sefaz - DF"
+    },
+    {
+        "key":"Sefaz - ES",
+        "latitude": -20.3222,
+        "longitude":-40.3381,
+        "name": "Sefaz - ES"
+    },
+    {
+        "key":"Sefaz - GO",
+        "latitude": -16.6799,
+        "longitude":-49.255,
+        "name": "Sefaz - GO"
+    },
+    {
+        "key":"Sefaz - MA",
+        "latitude": -4.9609,
+        "longitude":-45.2744,
+        "name": "Sefaz - MA"
+    },
+    {
+        "key":"Sefaz - MG",
+        "latitude": -18.5122,
+        "longitude":-44.555,
+        "name": "Sefaz - MG"
+    },
+    {
+        "key":"Sefaz - MS",
+        "latitude": -20.4697,
+        "longitude":-54.6201,
+        "name": "Sefaz - MS"
+    },
+    {
+        "key":"Sefaz - MT",
+        "latitude": -15.6014,
+        "longitude":-56.0979,
+        "name": "Sefaz - MT"
+    },
+    {
+        "key":"Sefaz - PA",
+        "latitude": -1.4558,
+        "longitude":-48.4902,
+        "name": "Sefaz - PA"
+    },
+    {
+        "key":"Sefaz - PB",
+        "latitude": -7.11532,
+        "longitude":-34.861,
+        "name": "Sefaz - PB"
+    },
+    {
+        "key":"Sefaz - PE",
+        "latitude": -8.0475,
+        "longitude":-34.877,
+        "name": "Sefaz - PE"
+    },
+    {
+        "key":"Sefaz - PI",
+        "latitude": -5.092,
+        "longitude":-42.8038,
+        "name": "Sefaz - PI"
+    },
+    {
+        "key":"Sefaz - PR",
+        "latitude": -11.3391,
+        "longitude":-55.3493,
+        "name": "Sefaz - PR"
+    },
+    {
+        "key":"Sefaz - RJ",
+        "latitude": -22.9035,
+        "longitude":-43.2096,
+        "name": "Sefaz - RJ"
+    },
+    {
+        "key":"Sefaz - RN",
+        "latitude": -5.7793,
+        "longitude":-35.2009,
+        "name": "Sefaz - RN"
+    },
+    {
+        "key":"Sefaz - RO",
+        "latitude": -10.8877,
+        "longitude":-61.9474,
+        "name": "Sefaz - RO"
+    },
+    {
+        "key":"Sefaz - RS",
+        "latitude": -30.0346,
+        "longitude":-51.2177,
+        "name": "Sefaz - RS"
+    },
+    {
+        "key":"Sefaz - SC",
+        "latitude": -27.595,
+        "longitude":-48.5482,
+        "name": "Sefaz - SC"
+    },
+    {
+        "key":"Sefaz - SE",
+        "latitude": -10.9472,
+        "longitude":-37.0731,
+        "name": "Sefaz - SE"
+    },
+    {
+        "key":"Sefaz - TO",
+        "latitude": -10.1753,
+        "longitude":-48.2982,
+        "name": "Sefaz - TO"
+    },
+    {
+        "key":"Sefaz - Virtual do RS",
+        "latitude": -10.1753,
+        "longitude":--48.2982,
+        "name": "Sefaz - Virtual do RS"
+    }
+    ]
 
