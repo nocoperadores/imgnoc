@@ -1,7 +1,7 @@
 [
 	{
 		"codigo_uf": 11,
-		"uf": "RO",
+		"key": "RO",
 		"name": "Rondônia",
 		"latitude": -10.83,
 		"longitude": -63.34,
