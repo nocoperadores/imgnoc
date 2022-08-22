@@ -161,7 +161,7 @@
 	{
 		"codigo_uf": 35,
 		"uf": "SP",
-		"name": "Sao Paulo",
+		"key": "Sao Paulo",
 		"latitude": -22.19,
 		"longitude": -48.79,
 		"regiao": "Sudeste"
