@@ -1,8 +1,8 @@
-﻿[
+[
 	{
 		"codigo_uf": 11,
 		"uf": "RO",
-		"nome": "Rondônia",
+		"key": "Rondônia",
 		"latitude": -10.83,
 		"longitude": -63.34,
 		"regiao": "Norte"
@@ -10,7 +10,7 @@
 	{
 		"codigo_uf": 12,
 		"uf": "AC",
-		"nome": "Acre",
+		"key": "Acre",
 		"latitude": -8.77,
 		"longitude": -70.55,
 		"regiao": "Norte"
@@ -18,7 +18,7 @@
 	{
 		"codigo_uf": 13,
 		"uf": "AM",
-		"nome": "Amazonas",
+		"key": "Amazonas",
 		"latitude": -3.47,
 		"longitude": -65.1,
 		"regiao": "Norte"
@@ -26,7 +26,7 @@
 	{
 		"codigo_uf": 14,
 		"uf": "RR",
-		"nome": "Roraima",
+		"key": "Roraima",
 		"latitude": 1.99,
 		"longitude": -61.33,
 		"regiao": "Norte"
@@ -34,7 +34,7 @@
 	{
 		"codigo_uf": 15,
 		"uf": "PA",
-		"nome": "Pará",
+		"key": "Pará",
 		"latitude": -3.79,
 		"longitude": -52.48,
 		"regiao": "Norte"
@@ -42,7 +42,7 @@
 	{
 		"codigo_uf": 16,
 		"uf": "AP",
-		"nome": "Amapá",
+		"key": "Amapá",
 		"latitude": 1.41,
 		"longitude": -51.77,
 		"regiao": "Norte"
@@ -50,7 +50,7 @@
 	{
 		"codigo_uf": 17,
 		"uf": "TO",
-		"nome": "Tocantins",
+		"key": "Tocantins",
 		"latitude": -9.46,
 		"longitude": -48.26,
 		"regiao": "Norte"
@@ -58,7 +58,7 @@
 	{
 		"codigo_uf": 21,
 		"uf": "MA",
-		"nome": "Maranhão",
+		"key": "Maranhão",
 		"latitude": -5.42,
 		"longitude": -45.44,
 		"regiao": "Nordeste"
@@ -66,7 +66,7 @@
 	{
 		"codigo_uf": 22,
 		"uf": "PI",
-		"nome": "Piauí",
+		"key": "Piauí",
 		"latitude": -6.6,
 		"longitude": -42.28,
 		"regiao": "Nordeste"
@@ -74,7 +74,7 @@
 	{
 		"codigo_uf": 23,
 		"uf": "CE",
-		"nome": "Ceará",
+		"key": "Ceará",
 		"latitude": -5.2,
 		"longitude": -39.53,
 		"regiao": "Nordeste"
@@ -82,7 +82,7 @@
 	{
 		"codigo_uf": 24,
 		"uf": "RN",
-		"nome": "Rio Grande do Norte",
+		"key": "Rio Grande do Norte",
 		"latitude": -5.81,
 		"longitude": -36.59,
 		"regiao": "Nordeste"
@@ -90,7 +90,7 @@
 	{
 		"codigo_uf": 25,
 		"uf": "PB",
-		"nome": "Paraíba",
+		"key": "Paraíba",
 		"latitude": -7.28,
 		"longitude": -36.72,
 		"regiao": "Nordeste"
@@ -98,7 +98,7 @@
 	{
 		"codigo_uf": 26,
 		"uf": "PE",
-		"nome": "Pernambuco",
+		"key": "Pernambuco",
 		"latitude": -8.38,
 		"longitude": -37.86,
 		"regiao": "Nordeste"
@@ -106,7 +106,7 @@
 	{
 		"codigo_uf": 27,
 		"uf": "AL",
-		"nome": "Alagoas",
+		"key": "Alagoas",
 		"latitude": -9.62,
 		"longitude": -36.82,
 		"regiao": "Nordeste"
@@ -114,7 +114,7 @@
 	{
 		"codigo_uf": 28,
 		"uf": "SE",
-		"nome": "Sergipe",
+		"key": "Sergipe",
 		"latitude": -10.57,
 		"longitude": -37.45,
 		"regiao": "Nordeste"
@@ -122,7 +122,7 @@
 	{
 		"codigo_uf": 29,
 		"uf": "BA",
-		"nome": "Bahia",
+		"key": "Bahia",
 		"latitude": -13.29,
 		"longitude": -41.71,
 		"regiao": "Nordeste"
@@ -130,7 +130,7 @@
 	{
 		"codigo_uf": 31,
 		"uf": "MG",
-		"nome": "Minas Gerais",
+		"key": "Minas Gerais",
 		"latitude": -18.1,
 		"longitude": -44.38,
 		"regiao": "Sudeste"
@@ -138,7 +138,7 @@
 	{
 		"codigo_uf": 32,
 		"uf": "ES",
-		"nome": "Espírito Santo",
+		"key": "Espírito Santo",
 		"latitude": -19.19,
 		"longitude": -40.34,
 		"regiao": "Sudeste"
@@ -146,7 +146,7 @@
 	{
 		"codigo_uf": 33,
 		"uf": "RJ",
-		"nome": "Rio de Janeiro",
+		"key": "Rio de Janeiro",
 		"latitude": -22.25,
 		"longitude": -42.66,
 		"regiao": "Sudeste"
@@ -154,7 +154,7 @@
 	{
 		"codigo_uf": 35,
 		"uf": "SP",
-		"nome": "São Paulo",
+		"key": "São Paulo",
 		"latitude": -22.19,
 		"longitude": -48.79,
 		"regiao": "Sudeste"
@@ -162,7 +162,7 @@
 	{
 		"codigo_uf": 41,
 		"uf": "PR",
-		"nome": "Paraná",
+		"key": "Paraná",
 		"latitude": -24.89,
 		"longitude": -51.55,
 		"regiao": "Sul"
@@ -170,7 +170,7 @@
 	{
 		"codigo_uf": 42,
 		"uf": "SC",
-		"nome": "Santa Catarina",
+		"key": "Santa Catarina",
 		"latitude": -27.45,
 		"longitude": -50.95,
 		"regiao": "Sul"
@@ -178,7 +178,7 @@
 	{
 		"codigo_uf": 43,
 		"uf": "RS",
-		"nome": "Rio Grande do Sul",
+		"key": "Rio Grande do Sul",
 		"latitude": -30.17,
 		"longitude": -53.5,
 		"regiao": "Sul"
@@ -186,7 +186,7 @@
 	{
 		"codigo_uf": 50,
 		"uf": "MS",
-		"nome": "Mato Grosso do Sul",
+		"key": "Mato Grosso do Sul",
 		"latitude": -20.51,
 		"longitude": -54.54,
 		"regiao": "Centro-Oeste"
@@ -194,7 +194,7 @@
 	{
 		"codigo_uf": 51,
 		"uf": "MT",
-		"nome": "Mato Grosso",
+		"key": "Mato Grosso",
 		"latitude": -12.64,
 		"longitude": -55.42,
 		"regiao": "Centro-Oeste"
@@ -202,7 +202,7 @@
 	{
 		"codigo_uf": 52,
 		"uf": "GO",
-		"nome": "Goiás",
+		"key": "Goiás",
 		"latitude": -15.98,
 		"longitude": -49.86,
 		"regiao": "Centro-Oeste"
@@ -210,7 +210,7 @@
 	{
 		"codigo_uf": 53,
 		"uf": "DF",
-		"nome": "Distrito Federal",
+		"key": "Distrito Federal",
 		"latitude": -15.83,
 		"longitude": -47.86,
 		"regiao": "Centro-Oeste"
