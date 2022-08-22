@@ -1,6 +1,7 @@
 [
 	{
 		"codigo_uf": 12,
+		"name":"Acre",
 		"key": "Acre",
 		"latitude": -8.77,
 		"longitude": -70.55,
