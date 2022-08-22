@@ -1,6 +1,6 @@
 [
 	{
-		"codigo_uf": 11,
+		"codigo_key": 11,
 		"key": "RO",
 		"name": "Rondônia",
 		"latitude": -10.83,
@@ -8,11 +8,211 @@
 		"regiao": "Norte"
 	},
 	{
-		"codigo_uf": 12,
-		"key": "Acre",
+		"codigo_key": 12,
+                "key": "AC",
 		"name": "Acre",
 		"latitude": -8.77,
 		"longitude": -70.55,
 		"regiao": "Norte"
+	},
+	{
+		"codigo_key": 13,
+		"key": "AM",
+		"name": "Amazonas",
+		"latitude": -3.47,
+		"longitude": -65.1,
+		"regiao": "Norte"
+	},
+	{
+		"codigo_key": 14,
+		"key": "RR",
+		"name": "Roraima",
+		"latitude": 1.99,
+		"longitude": -61.33,
+		"regiao": "Norte"
+	},
+	{
+		"codigo_key": 15,
+		"key": "PA",
+		"name": "Pará",
+		"latitude": -3.79,
+		"longitude": -52.48,
+		"regiao": "Norte"
+	},
+	{
+		"codigo_key": 16,
+		"key": "AP",
+		"name": "Amapá",
+		"latitude": 1.41,
+		"longitude": -51.77,
+		"regiao": "Norte"
+	},
+	{
+		"codigo_key": 17,
+		"key": "TO",
+		"name": "Tocantins",
+		"latitude": -9.46,
+		"longitude": -48.26,
+		"regiao": "Norte"
+	},
+	{
+		"codigo_key": 21,
+		"key": "MA",
+		"name": "Maranhão",
+		"latitude": -5.42,
+		"longitude": -45.44,
+		"regiao": "Nordeste"
+	},
+	{
+		"codigo_key": 22,
+		"key": "PI",
+		"name": "Piauí",
+		"latitude": -6.6,
+		"longitude": -42.28,
+		"regiao": "Nordeste"
+	},
+	{
+		"codigo_key": 23,
+		"key": "CE",
+		"name": "Ceará",
+		"latitude": -5.2,
+		"longitude": -39.53,
+		"regiao": "Nordeste"
+	},
+	{
+		"codigo_key": 24,
+		"key": "RN",
+		"name": "Rio Grande do Norte",
+		"latitude": -5.81,
+		"longitude": -36.59,
+		"regiao": "Nordeste"
+	},
+	{
+		"codigo_key": 25,
+		"key": "PB",
+		"name": "Paraíba",
+		"latitude": -7.28,
+		"longitude": -36.72,
+		"regiao": "Nordeste"
+	},
+	{
+		"codigo_key": 26,
+		"key": "PE",
+		"name": "Pernambuco",
+		"latitude": -8.38,
+		"longitude": -37.86,
+		"regiao": "Nordeste"
+	},
+	{
+		"codigo_key": 27,
+		"key": "AL",
+		"name": "Alagoas",
+		"latitude": -9.62,
+		"longitude": -36.82,
+		"regiao": "Nordeste"
+	},
+	{
+		"codigo_key": 28,
+		"key": "SE",
+		"name": "Sergipe",
+		"latitude": -10.57,
+		"longitude": -37.45,
+		"regiao": "Nordeste"
+	},
+	{
+		"codigo_key": 29,
+		"key": "BA",
+		"name": "Bahia",
+		"latitude": -13.29,
+		"longitude": -41.71,
+		"regiao": "Nordeste"
+	},
+	{
+		"codigo_key": 31,
+		"key": "MG",
+		"name": "Minas Gerais",
+		"latitude": -18.1,
+		"longitude": -44.38,
+		"regiao": "Sudeste"
+	},
+	{
+		"codigo_key": 32,
+		"key": "ES",
+		"name": "Espírito Santo",
+		"latitude": -19.19,
+		"longitude": -40.34,
+		"regiao": "Sudeste"
+	},
+	{
+		"codigo_key": 33,
+		"key": "RJ",
+		"name": "Rio de Janeiro",
+		"latitude": -22.25,
+		"longitude": -42.66,
+		"regiao": "Sudeste"
+	},
+	{
+		"codigo_key": 35,
+		"key": "SP",
+		"name": "São Paulo",
+		"latitude": -22.19,
+		"longitude": -48.79,
+		"regiao": "Sudeste"
+	},
+	{
+		"codigo_key": 41,
+		"key": "PR",
+		"name": "Paraná",
+		"latitude": -24.89,
+		"longitude": -51.55,
+		"regiao": "Sul"
+	},
+	{
+		"codigo_key": 42,
+		"key": "SC",
+		"name": "Santa Catarina",
+		"latitude": -27.45,
+		"longitude": -50.95,
+		"regiao": "Sul"
+	},
+	{
+		"codigo_key": 43,
+		"key": "RS",
+		"name": "Rio Grande do Sul",
+		"latitude": -30.17,
+		"longitude": -53.5,
+		"regiao": "Sul"
+	},
+	{
+		"codigo_key": 50,
+		"key": "MS",
+		"name": "Mato Grosso do Sul",
+		"latitude": -20.51,
+		"longitude": -54.54,
+		"regiao": "Centro-Oeste"
+	},
+	{
+		"codigo_key": 51,
+		"key": "MT",
+		"name": "Mato Grosso",
+		"latitude": -12.64,
+		"longitude": -55.42,
+		"regiao": "Centro-Oeste"
+	},
+	{
+		"codigo_key": 52,
+		"key": "GO",
+		"name": "Goiás",
+		"latitude": -15.98,
+		"longitude": -49.86,
+		"regiao": "Centro-Oeste"
+	},
+	{
+		"codigo_key": 53,
+		"key": "DF",
+		"name": "Distrito Federal",
+		"latitude": -15.83,
+		"longitude": -47.86,
+		"regiao": "Centro-Oeste"
 	}
 ]
