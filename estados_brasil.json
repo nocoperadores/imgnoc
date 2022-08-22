@@ -159,6 +159,14 @@
 		"regiao": "Sudeste"
 	},
 	{
+		"codigo_uf": 35,
+		"uf": "SP",
+		"name": "Sao Paulo",
+		"latitude": -22.19,
+		"longitude": -48.79,
+		"regiao": "Sudeste"
+	},
+	{
 		"codigo_uf": 41,
 		"uf": "PR",
 		"name": "Paraná",
