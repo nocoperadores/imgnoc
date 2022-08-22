@@ -1,5 +1,13 @@
 [
 	{
+		"codigo_uf": 11,
+		"uf": "RO",
+		"name": "Rondônia",
+		"latitude": -10.83,
+		"longitude": -63.34,
+		"regiao": "Norte"
+	},
+	{
 		"codigo_uf": 12,
 		"key": "Acre",
 		"name": "Acre",
